@@ -1,5 +1,7 @@
 # harry-poter-mobile-card-game
  harry-poter-mobile-card-game
+ 
+ 
 1.PROEJE HAKKINDA
 
 Bu proje ile Android uygulama ve
