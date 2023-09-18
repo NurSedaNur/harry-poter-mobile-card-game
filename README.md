@@ -1,6 +1,11 @@
 # harry-poter-mobile-card-game
  harry-poter-mobile-card-game
+
+Projeye ait detaylı bilgiye dosyadan ulaşabilirsiniz.
+
  
+ [Rapor.pdf](https://github.com/NurSedaNur/harry-poter-mobile-card-game/files/12652361/Rapor.pdf)
+
  
 1.PROEJE HAKKINDA
 
@@ -189,3 +194,17 @@ gerek kalmadan database ile ilgili
 olan bütün işlemlerimizi ve daha
 fazlasını kolaylıkla yapmamıza
 yardımcı olur .
+
+
+Projeye ait görüntüler aşağıda verilmiştir.
+
+
+
+![Ekran görüntüsü 2023-09-18 221039](https://github.com/NurSedaNur/harry-poter-mobile-card-game/assets/115660565/53594a08-6ba3-4578-9cb6-54cee0a37735)
+
+![Ekran görüntüsü 2023-09-18 221052](https://github.com/NurSedaNur/harry-poter-mobile-card-game/assets/115660565/44ea7ac2-f301-4e3a-be5b-a97e0ca30613)
+
+![Ekran görüntüsü 2023-09-18 221114](https://github.com/NurSedaNur/harry-poter-mobile-card-game/assets/115660565/1c7de09f-5176-48e3-b61a-c37955776061)
+
+![Ekran görüntüsü 2023-09-18 221131](https://github.com/NurSedaNur/harry-poter-mobile-card-game/assets/115660565/a42d612d-ad27-4391-9c3d-ffb3933c97e0)
+
